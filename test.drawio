@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1" version="24.7.7">
   <diagram name="ページ1" id="2bz06DOQqjxcS4X_Hx0f">
-    <mxGraphModel dx="517" dy="2011" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="329" dy="1571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="OsVPCbcsclZ9nk15sfq9-15" value="検知" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=29;position=0.48;" parent="1" vertex="1">
           <mxGeometry x="325" y="-369" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="04KN84mdgKp82XxdjJGK-3" value="api call:post" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-368.5" width="97" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="04KN84mdgKp82XxdjJGK-25" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="494" y="-474" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
